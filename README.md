@@ -33,7 +33,8 @@ The following software requirements needed to complete the project:
 - You should have Python 3, NumPy, and pandas installed.
 - A text editor.
 - A terminal application.
-By using the softwares mentioned above, write code to provide the following information:
+
+**By using the softwares mentioned above, write code to provide the following information:**
 
 1 Popular times of travel (i.e., occurs most often in the start time)
 
@@ -60,6 +61,9 @@ By using the softwares mentioned above, write code to provide the following info
 
 # Skills Needed
 
-Python and it's libraries.
-Descriptive statistics.
+- Python and it's libraries.
+- Descriptive statistics.
 
+# Contact information
+
+**Email:** maysa.alhadhrami@gmail.com
